@@ -1,1 +1,1 @@
-This is a [personal site](https://kits.github.io/) repository by KITAMURA Akatsuki.
+This is a [FTO Documents](https://kits.github.io/fto/) repository by KITAMURA Akatsuki.
