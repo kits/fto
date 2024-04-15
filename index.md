@@ -1,3 +1,3 @@
-# Test
+# FTO Documents
 
-this is test.
+FTO に関する情報を掲載する予定です。
